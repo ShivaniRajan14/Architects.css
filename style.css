@@ -1,0 +1,24 @@
+.Container {
+    width: 1500px;
+    height: 500px;
+    margin: 15px;
+}
+img {
+    width: 100%;
+}
+.item1 , .item2 , .item3 , .item4 , .item5 , .item6 , .item7 , .item8 {
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+    position: relative;
+
+}
+p {
+    font-size: 32px;
+    color: white;
+    position: absolute;
+    top: 0;
+    margin: 0px;
+    background-color: black;
+    margin: 0px;
+}
